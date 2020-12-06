@@ -4,13 +4,13 @@ Session for the Big Data Course - an applied Data Science project using Twitter 
 
 This session presents an applied example of a data science project, based on Twitter data.  
 
-**Getting started**  
+## Getting stated   
 To clone this repo:  
 ```
 git clone https://github.com/Naila-elh/CRI_BigDataCourse_2020.git
 ```
 
-**Presentation of the session**  
+## Presentation of this session  
 Slides: presentation of the session and of how the Twitter API works  
 Notebooks:  
 1. Example of streaming API  
