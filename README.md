@@ -1,5 +1,5 @@
 # CRI_BigDataCourse_2020  
-Session for the Big Data Course - Data Science project using Twitter data  
+Session for the Big Data Course - an applied Data Science project using Twitter data  
 *December 16th, 2020*
 
 This session presents an applied example of a data science project, based on Twitter data.  
