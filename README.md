@@ -16,3 +16,4 @@ Notebooks:
 1. Example of streaming API  
 2. Example of get_timeline API  
 3. Hands on: data analysis and visualization  
+4. Hands on: machine learning, classification
