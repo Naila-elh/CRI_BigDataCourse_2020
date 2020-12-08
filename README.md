@@ -10,6 +10,11 @@ To clone this repo:
 git clone https://github.com/Naila-elh/CRI_BigDataCourse_2020.git
 ```
 
+Then install the *requirements.txt* file that contains the packages - you can eventually install them in a virtual environment:
+```
+pip install -r requirements.txt
+```
+
 ## Presentation of this session  
 Slides: presentation of the session and of how the Twitter API works  
 Notebooks:  
